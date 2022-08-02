@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PCLALO\\Desktop\\VS .NET CORE MVC\\proyectos\\Nueva carpeta\\PanelCFDIs\\CargaArchivos\\CargaArchivos.csproj": {}
+    "C:\\Users\\PCLALO\\Desktop\\VS .NET CORE MVC\\proyectos\\Panel-CFDIs\\PanelCFDIs\\CargaArchivos\\CargaArchivos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PCLALO\\Desktop\\VS .NET CORE MVC\\proyectos\\Nueva carpeta\\PanelCFDIs\\CargaArchivos\\CargaArchivos.csproj": {
+    "C:\\Users\\PCLALO\\Desktop\\VS .NET CORE MVC\\proyectos\\Panel-CFDIs\\PanelCFDIs\\CargaArchivos\\CargaArchivos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PCLALO\\Desktop\\VS .NET CORE MVC\\proyectos\\Nueva carpeta\\PanelCFDIs\\CargaArchivos\\CargaArchivos.csproj",
+        "projectUniqueName": "C:\\Users\\PCLALO\\Desktop\\VS .NET CORE MVC\\proyectos\\Panel-CFDIs\\PanelCFDIs\\CargaArchivos\\CargaArchivos.csproj",
         "projectName": "CargaArchivos",
-        "projectPath": "C:\\Users\\PCLALO\\Desktop\\VS .NET CORE MVC\\proyectos\\Nueva carpeta\\PanelCFDIs\\CargaArchivos\\CargaArchivos.csproj",
+        "projectPath": "C:\\Users\\PCLALO\\Desktop\\VS .NET CORE MVC\\proyectos\\Panel-CFDIs\\PanelCFDIs\\CargaArchivos\\CargaArchivos.csproj",
         "packagesPath": "C:\\Users\\PCLALO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PCLALO\\Desktop\\VS .NET CORE MVC\\proyectos\\Nueva carpeta\\PanelCFDIs\\CargaArchivos\\obj\\",
+        "outputPath": "C:\\Users\\PCLALO\\Desktop\\VS .NET CORE MVC\\proyectos\\Panel-CFDIs\\PanelCFDIs\\CargaArchivos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PCLALO\\AppData\\Roaming\\NuGet\\NuGet.Config",

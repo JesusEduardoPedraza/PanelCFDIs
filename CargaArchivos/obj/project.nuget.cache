@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "weRV+rVmbJ3tvn6sRD+HGjVZeiR/srSg/5RA+rwiNG6bmZQ43BZw028xwSzL2Y1EPx59QXtZjGqkqGVm8gmxtw==",
+  "dgSpecHash": "Wc+I4qI6BtBDuap3XRY44xmkab5R/mhYVqJZ3ZIopxeQmv2OPRRmcdvU49YwIDBVuWqF+S4s0YUmBwYaxGsNxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PCLALO\\Desktop\\VS .NET CORE MVC\\proyectos\\Nueva carpeta\\PanelCFDIs\\CargaArchivos\\CargaArchivos.csproj",
+  "projectFilePath": "C:\\Users\\PCLALO\\Desktop\\VS .NET CORE MVC\\proyectos\\Panel-CFDIs\\PanelCFDIs\\CargaArchivos\\CargaArchivos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PCLALO\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.25\\microsoft.aspnetcore.cryptography.internal.3.1.25.nupkg.sha512",
     "C:\\Users\\PCLALO\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.25\\microsoft.aspnetcore.cryptography.keyderivation.3.1.25.nupkg.sha512",
