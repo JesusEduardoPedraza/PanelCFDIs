@@ -11,19 +11,20 @@ using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
+using CargaArchivos.Models;
 
 namespace CargaArchivos.Areas.Identity.Pages.Account
 {
     [AllowAnonymous]
     public class LoginModel : PageModel
     {
-        private readonly UserManager<IdentityUser> _userManager;
-        private readonly SignInManager<IdentityUser> _signInManager;
+        private readonly UserManager<AddRFC> _userManager;
+        private readonly SignInManager<AddRFC> _signInManager;
         private readonly ILogger<LoginModel> _logger;
 
-        public LoginModel(SignInManager<IdentityUser> signInManager, 
+        public LoginModel(SignInManager<AddRFC> signInManager, 
             ILogger<LoginModel> logger,
-            UserManager<IdentityUser> userManager)
+            UserManager<AddRFC> userManager)
         {
             _userManager = userManager;
             _signInManager = signInManager;
@@ -52,6 +53,9 @@ namespace CargaArchivos.Areas.Identity.Pages.Account
 
             [Display(Name = "Remember me?")]
             public bool RememberMe { get; set; }
+            [Required]
+            [Display(Name = "No. RFC")]
+            public string RFC { get; set; }
         }
 
         public async Task OnGetAsync(string returnUrl = null)
